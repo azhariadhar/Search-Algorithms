@@ -1,2 +1,2 @@
 # Search-Algorithms
-"Python Search Algorithms" - my assassmenmt for Introduction Of AI
+"Python Search Algorithms" - my assignment for Introduction Of AI. :)
